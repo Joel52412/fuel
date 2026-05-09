@@ -1,6 +1,6 @@
 // FUEL APP — Service Worker
 // Bump CACHE_VERSION after shell changes so clients refresh cached assets.
-var CACHE_VERSION = 'fuel-v4.0';
+var CACHE_VERSION = 'fuel-v5.0';
 
 function indexUrl() {
   return new URL('index.html', self.location).href;
