@@ -1,0 +1,19 @@
+{
+  "name": "Fuel — Nutrition & Calories",
+  "short_name": "Fuel",
+  "description": "Track calories, macros, water, and nutrients with barcode scan and recipes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080810",
+  "theme_color": "#080810",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 180 180'%3E%3Crect width='180' height='180' rx='38' fill='%23080810'/%3E%3Crect x='30' y='42' width='8' height='96' rx='3' fill='%23FF3D5A'/%3E%3Crect x='46' y='42' width='4' height='96' rx='2' fill='%23FF3D5A'/%3E%3Crect x='58' y='42' width='12' height='96' rx='3' fill='%23FF3D5A'/%3E%3Crect x='78' y='42' width='6' height='96' rx='2' fill='%23FF3D5A'/%3E%3Crect x='92' y='42' width='10' height='96' rx='3' fill='%23FF3D5A'/%3E%3Crect x='110' y='42' width='4' height='96' rx='2' fill='%23FF3D5A'/%3E%3Crect x='122' y='42' width='8' height='96' rx='3' fill='%23FF3D5A'/%3E%3Crect x='138' y='42' width='12' height='96' rx='3' fill='%23FF3D5A'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
